@@ -1,0 +1,1 @@
+{"$schema": "https://railway.app/railway.schema.json", "build": {"builder": "NIXPACKS", "buildCommand": "", "installCommand": "pip install -r requirements.txt", "startCommand": "python app.py"}, "deploy": {"startCommand": "python app.py", "healthcheckPath": "/"}}
